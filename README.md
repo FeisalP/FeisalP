@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FeisalP
-- 👀 I’m interested in Python and Data Science/Analytics
-- 🌱 I’m currently learning Python Programming and Data Visualization
-- 💞️ I’m looking to collaborate on the above topics and tools
-- 📫 I'll have to update how to reach me as I don't want to make my email address public.
+- 👋 Hi, I’m Feisal Peerbaccus
+- 👀 I’m a Data Analyst/Data Visualization Specialist. My educational background includes a Bachelor and Master of Architecture degrees.
+- 🌱 I’m currently looking for a Data Analyst role with specialization in Data Visualization using Tableau, SQL, and Excel.
+- 💞️ If you are interested to know more about me, please reach out on LinkedIn.
+- ☆ My work can also be viewed on Tableau Public where my profile is under my name above.
 
 <!---
 FeisalP/FeisalP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
