@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Feisal Peerbaccus. I’m a Data Analyst/Data Visualization Specialist.
 - 📚  My educational background includes a Bachelor and Master of Architecture degrees.
-- 💻 My Data Viz projects can be viewed on Tableau Public where my profile is under my name above.
+- 💻 My Data Viz projects can be viewed on Tableau Public where my profile is under my name.
 - 📮 My portfolio is available on my LinkedIn profile.
 
 
